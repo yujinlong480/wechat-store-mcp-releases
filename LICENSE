@@ -1,0 +1,167 @@
+﻿PROPRIETARY FREEWARE LICENSE
+Version 1.0
+
+Copyright (c) 2026 yujinlong480. All rights reserved.
+All Rights Reserved.
+
+This software and its associated documentation, source code, assets, user
+interface files, database schemas, build files, and other materials
+(collectively, the "Software") are proprietary. The Software is not open
+source and is licensed, not sold, only under the terms below. This license is
+not an OSI-approved open-source license.
+
+1. LIMITED LICENSE
+
+Subject to this License, you are granted a limited, non-exclusive,
+non-transferable, non-sublicensable, revocable license to install and use the
+Software free of charge on devices owned or controlled by you, solely for your
+lawful internal business operations and only with WeChat Shop accounts that you
+own or are authorized to access.
+
+2. PERMITTED USE
+
+You may:
+  a. download an official release from the official GitHub Releases page or
+     another distribution channel expressly authorized by the copyright owner;
+  b. install and run the Software on devices under your control;
+  c. use the Software to read and organize data from WeChat Shop accounts you
+     are authorized to access; and
+  d. make a reasonable number of backup copies solely for your own disaster
+     recovery, provided that all copyright and license notices are retained.
+
+3. RESTRICTIONS
+
+Except to the extent expressly permitted by applicable law or by the copyright
+owner in a separate written agreement, you must not:
+  a. copy, publish, distribute, sublicense, rent, lease, sell, resell, lend,
+     upload, mirror, or otherwise make the Software available to any third
+     party;
+  b. modify, translate, adapt, or create derivative works of the Software;
+  c. reverse engineer, decompile, disassemble, or attempt to derive source
+     code, algorithms, or trade secrets from the Software, except where such a
+     restriction is prohibited by mandatory applicable law;
+  d. remove, alter, obscure, or circumvent any copyright, author, license,
+     version, security, update, or attribution notice;
+  e. use the Software as part of a competing product, commercial redistribution
+     service, unauthorized hosted service, or software bundle;
+  f. use the Software to access WeChat Shop accounts or data without proper
+     authorization; or
+  g. use the Software in violation of applicable laws, platform rules, or
+     third-party rights.
+
+Nothing in this License grants any trademark, service mark, trade name, logo,
+or branding rights. You may not represent modified or redistributed materials
+as an official release.
+
+4. FREE OF CHARGE
+
+The Software is provided free of charge under this License. "Free of charge"
+does not mean public domain, open source, abandonware, or unrestricted use.
+Commercial customization, integration, deployment, or other professional
+services are not included and require a separate written agreement with the
+copyright owner.
+
+5. UPDATES
+
+The copyright owner may provide updates through GitHub Releases or other
+official channels. Updates, when provided, are governed by this License unless
+accompanied by different terms. The copyright owner is not obligated to provide
+updates, support, maintenance, or compatibility with future platform changes.
+
+6. PRIVACY AND USER DATA
+
+Business data collected by the Software is stored locally by default. Optional
+anonymous usage statistics may be transmitted to an operator-configured
+CloudBase endpoint and may be disabled in the Software's privacy settings.
+The current anonymous statistics are limited to a random installation ID, date,
+software version, launch counts, and synchronization counts, and do not include
+shop names, WeChat account names, credentials, business amounts, or deposit
+amounts.
+
+You are responsible for:
+  a. obtaining all permissions required to access connected accounts;
+  b. complying with applicable privacy, data protection, and platform rules;
+  c. securing your device, local data directory, login credentials, and backups;
+     and
+  d. determining whether the Software's data collection methods are suitable for
+     your jurisdiction, organization, and business.
+
+7. THIRD-PARTY COMPONENTS
+
+The Software may include or depend on third-party components that are governed
+by their own licenses. Third-party rights are not restricted by this License
+where those rights are separately granted. You are responsible for complying
+with all applicable third-party license terms when using or redistributing those
+components. If this License conflicts with a mandatory third-party license, the
+third-party license controls solely with respect to that component.
+
+8. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY
+KIND, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING WITHOUT
+LIMITATION ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE, TITLE, NON-INFRINGEMENT, ACCURACY, RELIABILITY, AVAILABILITY, OR
+FITNESS FOR A PARTICULAR BUSINESS OR ACCOUNTING PURPOSE.
+
+THE COPYRIGHT OWNER DOES NOT WARRANT THAT THE SOFTWARE WILL BE UNINTERRUPTED,
+ERROR-FREE, SECURE, COMPLETE, OR COMPATIBLE WITH ANY FUTURE WECHAT SHOP OR
+THIRD-PARTY PAGE CHANGES. ALL DATA DISPLAYED BY THE SOFTWARE, INCLUDING
+FINANCIAL, SETTLEMENT, GUARANTEE-DEPOSIT, VIOLATION, SCORE, AND ELIGIBILITY
+INFORMATION, IS FOR AUXILIARY REFERENCE ONLY AND DOES NOT CONSTITUTE AN OFFICIAL
+PLATFORM STATEMENT, FINANCIAL ADVICE, LEGAL ADVICE, TAX ADVICE, OR ACCOUNTING
+ADVICE.
+
+9. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL,
+CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, OR FOR ANY LOSS OF PROFITS,
+REVENUE, DATA, GOODWILL, BUSINESS OPPORTUNITY, EXPECTED SAVINGS, ACCOUNT ACCESS,
+OR FINANCIAL LOSS, ARISING OUT OF OR RELATED TO THE SOFTWARE, THIS LICENSE, OR
+THE USE OR INABILITY TO USE THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+SUCH DAMAGES.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT OWNER'S TOTAL
+AGGREGATE LIABILITY ARISING OUT OF OR RELATING TO THE SOFTWARE OR THIS LICENSE
+SHALL NOT EXCEED THE AMOUNT YOU PAID DIRECTLY TO THE COPYRIGHT OWNER FOR THE
+SOFTWARE, WHICH FOR THIS FREE-OF-CHARGE LICENSE IS ZERO (0).
+
+10. TERMINATION
+
+This License terminates automatically if you materially breach any term. You
+must then stop using the Software and delete all copies in your possession or
+control, except where retention is required by applicable law. Sections
+concerning restrictions, third-party components, disclaimers, limitation of
+liability, and general terms survive termination.
+
+11. CONSUMER AND MANDATORY RIGHTS
+
+Nothing in this License excludes or limits any right that cannot lawfully be
+excluded or limited under applicable mandatory consumer-protection or other law.
+If any provision is held unenforceable, it shall be enforced to the maximum
+extent permitted, and the remaining provisions shall remain in effect.
+
+12. ENTIRE AGREEMENT AND CONTACT
+
+This License is the entire agreement concerning use of the Software unless a
+separate written agreement signed by the copyright owner applies. A separate
+agreement prevails only for the subject matter it expressly covers.
+
+Contact for licensing, customization, or permissions:
+WeChat: xyz0553
+
+中文说明（仅供参考；如中英文存在冲突，以英文条款为准）
+
+本软件为“专有免费软件”，不是开源软件。你可以免费安装并运行本软件，用于
+你拥有或获得授权的微信小店账号和合法内部业务。未经版权所有者书面许可，
+不得复制、发布、转售、出租、再分发、修改、制作衍生作品，不得去除作者、
+版权、版本、安全或更新标识，不得用于竞争产品或未经授权的托管服务。商业
+定制、集成和部署需要单独书面协议。
+
+软件按“现状”提供，不保证持续可用、绝对准确或兼容未来微信页面变化。资金、
+结算、保证金、违规、评分和权益信息仅供辅助参考，不构成官方结算结论或
+财务、法律、税务、会计意见。在法律允许的最大范围内，版权所有者不对因
+使用或无法使用本软件造成的间接损失、数据丢失、业务损失或资金损失承担
+责任。
+
+联系方式：微信 xyz0553
