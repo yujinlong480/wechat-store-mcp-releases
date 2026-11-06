@@ -1,6 +1,6 @@
 # 微信小店数据工作台
 
-微信小店数据工作台是一款面向微信小店经营者的 Windows 桌面辅助工具，用于汇总店铺经营、违规、预警和资金结算数据。
+微信小店数据工作台是一款面向微信小店经营者的 Windows 桌面辅助工具，用于汇总店铺经营、违规、预警和资金结算数据，并提供品退申诉与后续 AI 创作能力。
 
 本仓库是软件的唯一公开分发仓库，仅提供正式 Release，不包含源代码。
 
@@ -10,15 +10,15 @@
 
 每个正式 Release 包含：
 
-- `WeChatStoreWorkbench-v1.0.4.exe`
-- `WeChatStoreWorkbench-v1.0.4.exe.sha256`
+- `WeChatStoreWorkbench-v1.0.5.exe`
+- `WeChatStoreWorkbench-v1.0.5.exe.sha256`
 
 ## 校验下载文件
 
 下载 EXE 和对应的 `.sha256` 文件后，在 PowerShell 中执行：
 
 ```powershell
-$exe = '.\WeChatStoreWorkbench-v1.0.4.exe'
+$exe = '.\WeChatStoreWorkbench-v1.0.5.exe'
 (Get-FileHash -LiteralPath $exe -Algorithm SHA256).Hash.ToLowerInvariant()
 Get-Content -LiteralPath "$exe.sha256"
 ```
@@ -31,8 +31,9 @@ Get-Content -LiteralPath "$exe.sha256"
 2. 根据软件内提示登录微信小店账号。
 3. 店铺、账号、金额、违规和同步数据默认仅保存在本机。
 4. 软件支持从本公开仓库的正式 Release 检查并执行一键升级。
+5. AI 功能使用邮箱验证码登录，非 AI 功能无需注册即可使用。
 
-软件永久免费。欢迎提交使用反馈，也支持定制开发。
+软件基础功能永久免费。AI 云端能力按积分计费，新用户提供可配置免费额度。欢迎提交使用反馈，也支持定制开发。
 
 ## 隐私说明
 
