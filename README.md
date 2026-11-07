@@ -10,15 +10,15 @@
 
 每个正式 Release 包含：
 
-- `WeChatStoreWorkbench-v1.0.10.exe`
-- `WeChatStoreWorkbench-v1.0.10.exe.sha256`
+- `WeChatStoreWorkbench-v1.0.11.exe`
+- `WeChatStoreWorkbench-v1.0.11.exe.sha256`
 
 ## 校验下载文件
 
 下载 EXE 和对应的 `.sha256` 文件后，在 PowerShell 中执行：
 
 ```powershell
-$exe = '.\WeChatStoreWorkbench-v1.0.10.exe'
+$exe = '.\WeChatStoreWorkbench-v1.0.11.exe'
 (Get-FileHash -LiteralPath $exe -Algorithm SHA256).Hash.ToLowerInvariant()
 Get-Content -LiteralPath "$exe.sha256"
 ```
