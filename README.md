@@ -25,9 +25,9 @@
 ```text
 WeChatStoreWorkbench-v1.0.15-portable/
   WeChatStoreWorkbench-v1.0.15.exe
-  README.txt
+  使用说明.txt
   LICENSE
-  THIRD_PARTY_NOTICES.txt
+  第三方组件许可说明.txt
   runtime/
     ffmpeg/
     python/
@@ -82,7 +82,7 @@ Get-Content -LiteralPath "$zip.sha256"
 
 软件本体采用 [Proprietary Freeware License 1.0](LICENSE)。软件可免费使用，但源代码不公开，未经授权不得复制、修改、反向工程或再分发。
 
-ffmpeg、Python、Playwright 等第三方组件分别遵循其自身许可证，完整说明见发布 ZIP 内的 `THIRD_PARTY_NOTICES.txt`。
+ffmpeg、Python、Playwright 等第三方组件分别遵循其自身许可证，完整说明见发布 ZIP 内的 `第三方组件许可说明.txt`。
 
 ## 联系
 
